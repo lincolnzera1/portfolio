@@ -292,13 +292,12 @@ const Home = () => {
       <ContainerCentral>
         <Paragrafo size={40}>Guilherme Lincoln</Paragrafo>
         <Paragrafo>
-          Olá! Sou um desenvolvedor Full Stack com dois anos de experiência.
-          Atuei em projetos utilizando a biblioteca React com a linguagem
-          TypeScript e o framework Flutter com a linguagem Dart. Também tenho
-          experiência na criação de backends utilizando Java com Spring Boot,
-          Node.js com JavaScript e Flask com Python. Estou entusiasmado para
-          aplicar meus conhecimentos e habilidades em uma nova oportunidade como
-          desenvolvedor junior.
+          Desenvolvedor Full Stack com experiência prática no desenvolvimento de aplicações web e mobile, atuando
+          desde o frontend até o backend. Trabalho principalmente com React, Angular, TypeScript, Node.js (Express) e
+          Java (Spring Boot), desenvolvendo interfaces performáticas, APIs REST e soluções escaláveis. Possuo
+          experiência em projetos institucionais e governamentais, integração com hardware, automação de processos
+          e bancos de dados relacionais (MySQL e PostgreSQL). Atuo em ambientes ágeis, com foco em qualidade de
+          código, usabilidade e entrega de valor ao usuário.
         </Paragrafo>
         <ContainerIcons>
           <a href="#" onClick={handleGithub}>
